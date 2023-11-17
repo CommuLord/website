@@ -1,0 +1,6 @@
+<svg width="570" height="360" viewBox="0 0 570 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 0H0V1V40H1V1H40V0H1Z" fill="#DACFCA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M570 1V0L569 0L530 0V1L569 1V40H570V1Z" fill="#DACFCA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M569 360H570V359V320H569V359H530V360H569Z" fill="#DACFCA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 359L0 360H1H40V359H1L1 320H0L0 359Z" fill="#DACFCA"/>
+</svg>
